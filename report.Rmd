@@ -31,6 +31,10 @@ random_numbers4 <- readRDS(
   here::here("output/random_numbers4.rds")
 )
 
+random_numbers5 <- readRDS(
+  here::here("output/random_numbers5.rds")
+)
+
 ```
 
 # Random numbers 1

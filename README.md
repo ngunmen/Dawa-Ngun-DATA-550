@@ -252,6 +252,7 @@ Once the files are in their desired location, *User B* should confirm that they 
 
 ### User B: Create a GitHub repository
 
+
 *User B* should create a GitHub repository using the following steps.
 
 1. Log in to GitHub and create an empty GitHub repository.
